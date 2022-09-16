@@ -1,0 +1,13 @@
+16/09/22: INFO: test_EmpStatus_count: test_001: TEST CASE 001
+16/09/22: INFO: test_EmpStatus_count: test_001: Test Case Stating
+16/09/22: INFO: test_EmpStatus_count: test_001: enter user name
+16/09/22: INFO: test_EmpStatus_count: test_001: enter Password
+16/09/22: INFO: test_EmpStatus_count: test_001: clicked Login
+16/09/22: INFO: test_EmpStatus_count: test_001: test case pass
+16/09/22: INFO: test_EmpStatus_count: test_001: Click admin button
+16/09/22: INFO: test_EmpStatus_count: test_001: Click user management button
+16/09/22: INFO: test_EmpStatus_count: test_001: Click job button
+16/09/22: INFO: test_EmpStatus_count: test_001: Click employment button
+16/09/22: INFO: test_EmpStatus_count: test_001: Click add button
+16/09/22: INFO: test_EmpStatus_count: test_001: Enter Name
+16/09/22: INFO: test_EmpStatus_count: test_001: Click save button
