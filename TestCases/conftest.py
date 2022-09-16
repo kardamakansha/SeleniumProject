@@ -10,6 +10,5 @@ config.read("utilities/input.properties")
 def setup(request):
     request.cls.driver = webdriver.Chrome("Driver\\chromedriver.exe")
     request.cls.driver.get(config.get("url", "base_url"))
-    request.cls.name = "Akansha"
     yield
     request.cls.driver.quit()
